@@ -2,7 +2,6 @@ clear;
 clc;
 
 %% Setup IQA Enviornment
-%Relative folder path so code needs the folder "image-quality-tools-master"
 addpath('metrix_mux','ESIM','IWSSIM');
 
 %Initial Setup
